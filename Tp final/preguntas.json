@@ -1,0 +1,88 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ciudad de Antioquia en la que nació la Madre Laura (Primera Santa Colombiana)",
+        "respuesta": "Jericó",
+        "incorrecta1": "Medellín",
+        "incorrecta2": "Apartadó ",
+        "incorrecta3": "Ituango\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Así de conoció la masacre al sindicato de trabajadores de \"United Fruit Company\".",
+        "respuesta": "Masacre De Las Bananeras",
+        "incorrecta1": "Masacre De Las Banderas",
+        "incorrecta2": "Masacre De Las Frutas",
+        "incorrecta3": "Masacre Del Caribe\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+    "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r",
+    "imagen": "https://i.ibb.co/RTffJbX/d.jpg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo del Sodio?",
+        "respuesta": "Na",
+        "incorrecta1": "Mn",
+        "incorrecta2": "Li",
+        "incorrecta3": "Au\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el nombre común del ácido ascórbico?",
+        "respuesta": "Vitamina C",
+        "incorrecta1": "Ácido Cítrico",
+        "incorrecta2": "Vitamina B6",
+        "incorrecta3": "Vitamina B12\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué ciudad española se celebra todos los años una historia de amor con final trágico?",
+        "respuesta": "Teruel ",
+        "incorrecta1": "Las Palmas ",
+        "incorrecta2": "Ceuta",
+        "incorrecta3": "Sevilla\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Con cuál de las siguientes provincias no limita la Comunidad de Madrid?",
+        "respuesta": "Valladolid",
+        "incorrecta1": "Toledo",
+        "incorrecta2": "Cuenca",
+        "incorrecta3": "Segovia\r"
+    }
+]
